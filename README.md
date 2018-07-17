@@ -1,2 +1,3 @@
 # carnival-project
-VR nanodegree
+This is project 1 of the Udacity VR nanodegree
+
